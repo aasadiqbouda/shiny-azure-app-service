@@ -1,4 +1,4 @@
-# Shiny to Azure App Service demo
+# My Shiny App on Azure App Service
 
 This repo contains the necessary set up to deploy your Shiny app to [Azure App Service](https://azure.microsoft.com/en-us/products/app-service). You will need the following:
 
